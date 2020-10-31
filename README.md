@@ -7,7 +7,7 @@ Passionate about programming 💻.
   
 I'm currently learning Mobile development📱. 
 
-I'm working on some mobile projects in React Native to improve my skills.
+I'm working on some mobile projects in React Native, Flutter and Swift to improve my skills.
 
 You can see me also on [Linkedin](https://www.linkedin.com/in/mattéo-fauchon/)
 
