@@ -9,7 +9,9 @@ I'm currently learning Mobile development📱.
 
 I'm working on some mobile projects in React Native, Flutter and Swift to improve my skills.
 
-You can see me also on [Linkedin](https://www.linkedin.com/in/mattéo-fauchon/)
+I also use Firebase, Redux or Easy-peasy with these Frameworks / Languages.
+
+You can see me on [Linkedin](https://www.linkedin.com/in/mattéo-fauchon/)
 
 <!--
 **matteofauchon/matteofauchon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
