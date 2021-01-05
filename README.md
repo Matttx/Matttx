@@ -11,7 +11,9 @@ I'm working on some mobile projects in React Native, Flutter and Swift to improv
 
 I also use Firebase, Redux or Easy-peasy with these Frameworks / Languages.
 
-You can see me on [Linkedin](https://www.linkedin.com/in/mattéo-fauchon/)
+You can see one of my projects in Flutter [here](https://github.com/Matttx/Epicture). 
+
+You can see me on [Linkedin](https://www.linkedin.com/in/mattéo-fauchon/). 
 
 <!--
 **matteofauchon/matteofauchon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
